@@ -1,0 +1,4 @@
+[core]
+    remote = cubic
+['remote "cubic"']
+    url = ssh://abdulkaa@cubic-login/cbica/home/abdulkaa/dvcdata
