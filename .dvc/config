@@ -1,4 +1,4 @@
 [core]
     remote = cubic
 ['remote "cubic"']
-    url = ssh://abdulkaa@cubic-login/cbica/home/abdulkaa/dvcdata
+    url = ssh://cubic-login/cbica/home/abdulkaa/dvcdata
